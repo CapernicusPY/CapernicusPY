@@ -1,5 +1,5 @@
 <section id="badges">
-  <a href="discord.com">
+  <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-purple?logo=discord&logoColor=white">
   </a>
 </section>
