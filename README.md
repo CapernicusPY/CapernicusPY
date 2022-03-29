@@ -13,6 +13,7 @@
   * I am a 14 years old boy from Hellas (🇬🇷) that loves **Software engineering** and **Cyber Security**.
   * 🛸 I’m currently working on PySpace, an API Wrapper for the <a href="api.nasa.gov">NASA API's</a>.
   * ⚡ As of now I'm learning **OpenCV**, **Flask**, and **CyberSecurity** (networking, bash scripting + pen testing).
+  * Fun fact: Noticed the typo on my username? Its because the gmail username "copernicus" is taken. From ever since, i used that to every social media i have.
 </section>
 
 <section>
