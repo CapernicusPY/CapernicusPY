@@ -2,7 +2,7 @@
 
 
 <section id="badges">
-  <a href="https://discord.com">
+  <a href=" https://discordapp.com/users/823222365110534144/ ">
     <img src="https://img.shields.io/badge/Discord-white?&logo=discord">
   </a>
 </section>
