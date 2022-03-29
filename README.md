@@ -12,7 +12,7 @@
   
   * I am a 14 years old boy from Hellas (🇬🇷) that loves **Software engineering** and **Cyber Security**.
   * 🛸 I’m currently working on PySpace, an API Wrapper for the <a href="api.nasa.gov">NASA API's</a>.
-  * ⚡ I’m currently learning **OpenCV**, **Flask**, and **CyberSecurity** (networking, bash scripting + pen testing).
+  * ⚡ As of now I'm learning **OpenCV**, **Flask**, and **CyberSecurity** (networking, bash scripting + pen testing).
 </section>
 
 <section>
