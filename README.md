@@ -6,8 +6,9 @@
 
 <section id="about-me">
   <h3>About me</h3>
-  * 📘 I am a student and developer with huge interest in Computer Science and specifically Cyber Security.
-  * 👾 I am working on `vial`, a blazing fast python framework used to exploit Werkzeug based web applications.
+   
+* 📘 I am a student and developer with huge interest in Computer Science and specifically Cyber Security.
+* 👾 I am working on `vial`, a blazing fast python framework used to exploit Werkzeug based web applications.
 </section>
 
 <details>
