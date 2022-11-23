@@ -10,7 +10,11 @@
 * 📘 I am a student and developer with huge interest in Computer Science and specifically Cyber Security.
 * 👾 I am working on `vial`, a blazing fast python framework used to exploit Werkzeug based web applications.
 </section>
-
+<h3>Languages and tools</h3>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 <details>
 <summary>Github Statistics</summary>
 
