@@ -1,4 +1,4 @@
-# Hey there, I am `HTW`
+# Hey there, I am `Copernicus`
 <a href="https://discord.gg/pw3Qzqyh"><img src="https://img.shields.io/discord/1026514542299193394?colorA=363a4f&colorB=a6da95&label=discord&logo=discord&logoColor=white&style=for-the-badge"></a>
 
 I am a student with huge interest in Computer Science and especially in Cyber Security
