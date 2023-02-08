@@ -1,4 +1,4 @@
-# Hey there, I am `Copernicus`
+# Hey there, I am `skeleton`
 [![dicord](https://img.shields.io/discord/1026514542299193394?colorA=363a4f&colorB=a6da95&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pw3Qzqyh)
 [![twitter](https://img.shields.io/twitter/follow/lil_skeletonn?style=for-the-badge&logo=twitter&logoColor=white&colorA=363a4f&colorB=b7bdf8)](https://twitter.com/lil_skeletonn)
 
