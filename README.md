@@ -1,24 +1,25 @@
-# Hey there, I am `skeleton`
-[![dicord](https://img.shields.io/discord/1026514542299193394?colorA=363a4f&colorB=a6da95&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pw3Qzqyh)
-[![twitter](https://img.shields.io/twitter/follow/lil_skeletonn?style=for-the-badge&logo=twitter&logoColor=white&colorA=363a4f&colorB=b7bdf8)](https://twitter.com/lil_skeletonn)
-
-I am a student with huge interest in Computer Science and especially in Cyber Security
+# Hey there, I am `Skelly`
+_QoTd: No matter if you have a potato PC that outlived Heisenberg, you can still get the work done. - Potato user_
+ 
+I am a student with huge interest in Computer Science and specifically in Cyber Security
 
 - 📖 I love reading books
-
 - 🎶 I enjoy listening to music
-
+- 🤡 Proud Arch user (_btw_)
 - 👾 Offensive developer
-
 - 🏳️‍ Intermediate CTF player
 
-# Languages and tools
+# Projects
+- 🧪 **!!!** [Vial](https://github.com/CopernicusPY/vial): *Offensive* Python framework focused on attacking/exploiting Werkzeug/Flask web applications.
+- 📷 **[SOON]** Wyze Whisper: Hack an IoT camera (Wyze Cam indoor V2) by abusing its firmware upgrade process.
+- 🎮 [VulnWorld](https://github.com/CopernicusPY/vulnw0rld/) A small CTF game I made at some point in my timeline
+- 🛰️ [PySpace](https://github.com/CopernicusPY/pyspace): A Python **NASA API** wrapper.
+  
+## Blog
+I also have a blog where I share some of my CTF/hacking write ups.
+You can visit it [here](https://lil-skelly.gitbook.io) \
+(*honorary mention: [buffer overflow series](https://lil-skelly.gitbook.io/about-me/writeups/main/picoctf/buffer-overflow-series), took me an eternity*)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+# Languages and Tools
+[![Skills](https://skillicons.dev/icons?i=bash,docker,linux,postman,py,flask,neovim,vscode,)](https://skillicons.dev)
+(and some more)
