@@ -1,7 +1,7 @@
-# Hey there, I am `Skelly`
+# Hey there, I am `Skelly` 
 _QoTd: No matter if you have a potato PC that outlived Heisenberg, you can still get the work done. - Potato user_
  
-I am a student with huge interest in Computer Science and specifically in Cyber Security
+I am a student with huge interest in Computer Science and specifically in Cyber Security 
 
 - 📖 I love reading books
 - 🎶 I enjoy listening to music
@@ -9,7 +9,8 @@ I am a student with huge interest in Computer Science and specifically in Cyber 
 - 👾 Offensive developer
 - 🏳️‍ Intermediate CTF player
 
-<script src="https://tryhackme.com/badge/1111628"></script>
+
+<a href="https://tryhackme.com/p/mr.skelly"><img width="220px" src="https://tryhackme-badges.s3.amazonaws.com/mr.skelly.png" alt="TryHackMe"></a>
 
 # Projects
 - 🧪 **!!!** [Vial](https://github.com/CopernicusPY/vial): *Offensive* Python framework focused on attacking/exploiting Werkzeug/Flask web applications.
