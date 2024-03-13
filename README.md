@@ -9,6 +9,8 @@ I am a student with huge interest in Computer Science and specifically in Cyber 
 - 👾 Offensive developer
 - 🏳️‍ Intermediate CTF player
 
+<script src="https://tryhackme.com/badge/1111628"></script>
+
 # Projects
 - 🧪 **!!!** [Vial](https://github.com/CopernicusPY/vial): *Offensive* Python framework focused on attacking/exploiting Werkzeug/Flask web applications.
 - 📷 **[SOON]** Wyze Whisper: Hack an IoT camera (Wyze Cam indoor V2) by abusing its firmware upgrade process.
