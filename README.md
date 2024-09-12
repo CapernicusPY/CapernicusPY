@@ -1,14 +1,9 @@
-# Hey there, I am `Skelly` 
-_QoTd: No matter if you have a potato PC that outlived Heisenberg, you can still get the work done. - Potato user_
- 
-I am a student with huge interest in Computer Science and specifically in Cyber Security 
+# Hello, I'm skelly
+I am a student interested in IT, fascinated by cyber security.
 
-- 📖 I love reading books
-- 🎶 I enjoy listening to music
-- 🤡 Proud Arch user (_btw_)
-- 👾 Offensive developer
-- 🏳️‍ Intermediate CTF player
-
+- I make stuff
+- I (sometimes) write about the stuff I make
+- I read stuff
 
 <a href="https://tryhackme.com/p/mr.skelly"><img width="220px" src="https://tryhackme-badges.s3.amazonaws.com/mr.skelly.png" alt="TryHackMe"></a>
 
